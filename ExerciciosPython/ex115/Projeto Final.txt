@@ -1,0 +1,7 @@
+Jose;35
+Luis;18
+Knack;15
+Claudia;55
+Eduardo;0
+Gilberto;5
+Eduardo;45
